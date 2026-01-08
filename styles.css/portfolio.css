@@ -226,10 +226,12 @@ footer .footer-container {
   font-size: 16px;
   margin-bottom: 30px;
 }
-.footer-container .icons a{
+.footer-container .icons a {
   margin-right: 24px;
 }
-.footer-container form input[type="text"], input[type="email"], textarea{
+.footer-container form input[type="text"],
+input[type="email"],
+textarea {
   width: 461px;
   padding: 18px 31px;
   margin-bottom: 25px;
